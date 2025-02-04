@@ -2,7 +2,7 @@
 
 ### Education
 - MS in Technology and Business Management from Pepperdine University
-- BS in Electronics Engineering from ITT Tech. Inst.
+- BS in Electronics Engineering from ITT Technical Institute
 
 ### Work Experience
 Product/Program Director @ Kaiser Permanente
