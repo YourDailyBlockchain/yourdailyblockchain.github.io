@@ -1,8 +1,8 @@
 # Product/Program Lead: Technology Enablement
 
 ### Education
-MS in Technology and Business Management
-BS in Electronics Engineering
+- MS in Technology and Business Management
+- BS in Electronics Engineering
 
 ### Work Experience
 Product/Program Director @ Kaiser Permanente
