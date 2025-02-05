@@ -1,7 +1,7 @@
 # Product/Program Lead: Technology Enablement
 
 #### Technical Skills:
-Python Fundamentals, SaaS, Agile, Project/Product Mgmt., SQL Fundamentals, Excel Data, Blockchain CeFi/Defi, Solidity Smart Contract Foundations
+Python Fundamentals, Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, SaaS, Agile, Project/Product Mgmt., SQL Fundamentals, Excel Data, Blockchain CeFi/Defi, Solidity Smart Contract Foundations
 
 ## Certifications
 - PMP - Project Management Professional | PMI
@@ -15,7 +15,7 @@ Python Fundamentals, SaaS, Agile, Project/Product Mgmt., SQL Fundamentals, Excel
 ## Work Experience
 **Product/Program Director @ Kaiser Permanente**
 - big impact project 1
-- big impactt project 2
+- big impact project 2
 
 
 ## Professional Skills
